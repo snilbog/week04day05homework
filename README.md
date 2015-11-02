@@ -93,7 +93,9 @@ Keep in mind, this is tentative. **We may change topics and dates as necessary.*
 | **Week 9**  | 1/4 - 1/8     | **Project 3** & Thanksgiving Break    |
 | **Week 10** | 1/11 - 1/15   | Angular                               |
 | **Week 11** | 1/18 - 1/22   | Angular & APIs, React, other topics   |
-| **Week 12** | 1/25 - 1/29   | **Project 4**                         |
+| **Week 11** | 1/25 - 1/29   | **Project 4**                         |
+| **Week 11** | 2/1 - 2/5   | **Project 4**                         |
+| **Week 12** | 2/8 - 2/12   | **Project 4**                         |
 
 
 
