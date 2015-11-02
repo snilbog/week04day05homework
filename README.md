@@ -54,7 +54,7 @@ Here is where we will store the information you need as students. This includes 
 |Andrew|	Ghim|	aghim09@gmail.com|
 |Adam|	Leonard|	adammhleonard@gmail.com|
 |Erin|	Moon|	erinmoony@gmail.com|
-|Adriane|	purdy|	adrianepurdy@yahoo.com|
+|Adriane|	Purdy|	adrianepurdy@yahoo.com|
 |Julia|	Rush|	julia.rush@me.com|
 |John|	Step|	jstep84@gmail.com|
 |Alex|	Winn|	alex.winn520@gmail.com|
