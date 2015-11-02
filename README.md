@@ -20,15 +20,15 @@ Here is where we will store the information you need as students. This includes 
 ​
 ### Instructional Team
 
-| Role               | Name               | Slack           | Email (@generalassemb.ly) |
-|:------------------:|:------------------:|:---------------:|:-------------------------:|
-| Course Producer    | Elysse Reyna       | @elysse         | elysse.reyna              | 
-| Instructor         | Brian Hague        | @brian.hague    | brian.hague               | 
-| Instructor         | Josh Sera          | @jsera-ga       | josh.sera                 |
-| DIR                | Wale Ogundipe      | @wale_o         | wale.ogundipe             |
-| DIR                | Merit Trompeter    | @merit          | merit.trompeter           |
+| Role               | Name               | Slack            | Email (@generalassemb.ly) |
+|:------------------:|:------------------:|:----------------:|:-------------------------:|
+| Course Producer    | Elysse Reyna       | @elysse          | elysse.reyna              | 
+| Instructor         | Sean Robertson     | @sean.robertson  | sean.robertson            | 
+| Instructor         | Patrick O'Connor   | @RobertSheaO     | patrick.oconnor           |
+| DIR                | Wale Ogundipe      | @wale_o          | wale.ogundipe             |
+| DIR                | Merit Trompeter    | @merit           | merit.trompeter           |
 
-### TAs
+### TAs (NEEDS UPDATE)
 
 *subject to change
 
@@ -40,7 +40,7 @@ Here is where we will store the information you need as students. This includes 
 | Mon, Tues, Weds 5:30-8  | Daniel Smith     | @smithdp60     | daniel.smith          | 
 | Tues, Weds, Thurs 6-8   | Sean Villagracia | @svillagracia  | sean.villagracia      |
 
-### Class
+### Class (NEEDS UPDATE)
 
 | Name                 | Email                           | Slack              | GitHub |
 |:--------------------:|:-------------------------------:|:------------------:|:------:|
