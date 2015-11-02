@@ -1,6 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 ​
-# WDI SEA 04 Class Repository
+# WDI SEA 05 Class Repository
 ​Welcome to your shared class repo! Cheat sheets, in-class labs and code samples, curated lists of articles, and other resources will live here.
 ​
 Here is where we will store the information you need as students. This includes important links and readings, in-class examples, prompts and solutions for exercises, labs, homework and projects.
@@ -44,32 +44,21 @@ Here is where we will store the information you need as students. This includes 
 
 | Name                 | Email                           | Slack              | GitHub |
 |:--------------------:|:-------------------------------:|:------------------:|:------:|
-| Agustin Bautist      | auggie.bautista@gmail.com       | @abautist          | [abautist](https://github.com/abautist)                   |
-| Jeffers Baxter       | jeffersbaxter@comcast.net       | @jeffersbaxter     | [jeffersbaxter](https://github.com/jeffersbaxter)         |
-| Todd Best            | toddbest2004@gmail.com          | @toddbest2004      | [toddbest2004](https://github.com/toddbest2004)           |
-| Taylor Bolin         | t.n.bolin@gmail.com             | @taylorbolin       | [taylorbolin](https://github.com/taylorbolin)             |
-| Brittany Brassell    | brittany.brassell@gmail.com     | @bbrassell         | [BrittanyIRL](https://github.com/BrittanyIRL)             |
-| Emma Brillhart       | emma.brillhart@gmail.com        | @ebrillhart        | [ebrillhart](https://github.com/ebrillhart)               |
-| Chris Carlson        | chris@christiancarlsonmusic.com | @thecodingcarlson  | [TheCodingCarlson](https://github.com/TheCodingCarlson)   |
-| Marybeth Ernsberger  | bethburger42@gmail.com          | @bethburger        | [bethburger42](https://github.com/bethburger42)           |
-| Rachel Fourquet      | rachel.lake@rocketmail.com      | @rachelfourq       | [rachelfourq](https://github.com/rachelfourq)             |
-| Sam French           | sam.o.french@gmail.com          | @sam.o.french      | [samofrench](https://github.com/samofrench)               |
-| Paloma Hennessy      | palomahennessy@gmail.com        | @paloma            | [PalomaHennesy](https://github.com/PalomaHennsey)         |
-| Yahya Hussein        | yahyahussein91@gmail.com        | @yahya1991         | [yahya09206](https://github.com/yahya09206)               |
-| Keaton Laney         | keatonus@gmail.com              | @keatonlaney       | [klaney](https://github.com/klaney)                       |
-| Ara Lawrence         | ara.e.lawrence@gmail.com        | @ara.lawrence      | [AraLawrence](https://github.com/AraLawrence)             |
-| Alex Mac             | alex.mac.3@outlook.com          | @alexmac3          | [alex-mac](https://github.com/alex-mac)                   |
-| Alec McGovern        | alecmcgovern444@gmail.com       | @alec              | [alecmcgovern](https://github.com/alecmcgovern)           |
-| Andrew Mestas        | andrew.mestas.dev@gmail.com     | @andrew_m          | [andrew-mestas](https://github.com/andrew-mestas)         |
-| Brian Navaluna       | brian.navaluna@gmx.com          | @brian.navaluna    | [bnavaluna](https://github.com/bnavaluna)                 |
-| Haylee Nighbert      | haylee.nigh@gmail.com           | @hayleenoelle      | [hayleenighbert](https://github.com/hayleenighbert)       |
-| Tess O'Brien         | tess323@gmail.com               | @tess323           | [tess323](https://github.com/tess323)                     |
-| Anh Pham             | theking9985@yahoo.com           | @theking9985       | [theking9985](https://github.com/theking9985)             |
-| Joe Rehfuss          | joe.rehfuss@gmail.com           | @joe.rehfuss       | [rufasa85](https://github.com/rufasa85)                   |
-| Carl Reiner          | creiner1@gmail.com              | @carlreiner        | [cfreiner](https://github.com/cfreiner)                   |
-| Julie Sakalys        | tashikanakoto@gmail.com         | @evydia            | [jsakalys](https://github.com/jsakalys)                   |
-| Thomas Vaeth         | thomas.vaeth@gmail.com          | @thomas.vaeth      | [thomasvaeth](https://github.com/thomasvaeth)             |
-| Chyi Yen Wang        | chyiyenwang@gmail.com           | @chyiwang          | [chyiyenwang ](https://github.com/chyiyenwang )           |
+|Erik|	Ásland|	erikaasland87@gmail.com|
+|Fernando|	Carbajal|	fjcarb@gmail.com|
+|James|	Chi|	jamesjchi@gmail.com|
+|Jo|	Chong|	jo.c.keller@gmail.com|
+|Seth|	Chute|	sdchute@gmail.com|
+|Dominic|	Faulring|	dominicfaulring@fastmail.com|
+|Edward|	Gervais|	edward.a.gervais89@gmail.com|
+|Andrew|	Ghim|	aghim09@gmail.com|
+|Adam|	Leonard|	adammhleonard@gmail.com|
+|Erin|	Moon|	erinmoony@gmail.com|
+|adriane|	purdy|	adrianepurdy@yahoo.com|
+|Julia|	Rush|	julia.rush@me.com|
+|john|	step|	jstep84@gmail.com|
+|Alex|	Winn|	alex.winn520@gmail.com|
+|Cynthia|	Wong|	cynhowong@gmail.com|
 
 
 
