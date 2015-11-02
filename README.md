@@ -69,7 +69,7 @@ Here is where we will store the information you need as students. This includes 
 | November 5     | Thursday             | Orientation & Installfest       |
 | November 9     | Monday               | First Day of WDI!               |
 | November 26-27   | Thursday-Sunday      | Thanksgiving Break (NO CLASS) |
-| December 24 - January 1      | Thursday-Friday | Last Day of Class      |
+| December 24 - January 1      | Thursday-Friday | Holiday Break (NO CLASS)|
 | February 12      | Friday               | Last Day of Class             |
 
 Note: in the weeks following your graduation, there will be a number of various job search preparation tutorials and hiring events, with dates TBD.
