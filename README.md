@@ -40,7 +40,7 @@ Here is where we will store the information you need as students. This includes 
 | Mon, Tues, Weds 5:30-8  | Daniel Smith     | @smithdp60     | daniel.smith          | 
 | Tues, Weds, Thurs 6-8   | Sean Villagracia | @svillagracia  | sean.villagracia      |
 
-### Class (NEEDS UPDATE)
+### Class
 
 | Name                 | Email                           | Slack              | GitHub |
 |:--------------------:|:-------------------------------:|:------------------:|:------:|
@@ -68,7 +68,7 @@ Here is where we will store the information you need as students. This includes 
 |:----------------:|:----------------:|:---------------------------------:|
 | November 5     | Thursday             | Orientation & Installfest       |
 | November 9     | Monday               | First Day of WDI!               |
-| November 26-27   | Thursday-Sunday      | Thanksgiving Break (NO CLASS) |
+| November 26-27   | Thursday-Friday      | Thanksgiving Break (NO CLASS) |
 | December 24 - January 1      | Thursday-Friday | Holiday Break (NO CLASS)|
 | February 12      | Friday               | Last Day of Class             |
 
