@@ -92,18 +92,18 @@ Keep in mind, this is tentative. **We may change topics and dates as necessary.*
 
 | Week        | Dates         | Module                                |
 |:-----------:|:-------------:|:-------------------------------------:|
-| **Week 1**  | 9/28 - 10/1   | Front-End Fundamentals (HTML/CSS)     |
-| **Week 2**  | 10/5 - 10/9   | JQuery, Intermediate Front-End        |
-| **Week 3**  | 10/12 - 10/16 | **Project 1** (individual)            |
-| **Week 4**  | 10/19 -1 0/23 | Intro Node, Express                   |
-| **Week 5**  | 10/26 - 10/30 | More Express, Auth, Testing           |
-| **Week 6**  | 11/2 - 11/6   | **Project 2** (individual)            |
-| **Week 7**  | 11/9 - 11/13  | Intro Ruby                            |
-| **Week 8**  | 11/16 - 11/20 | Ruby on Rails / *Project 3* (group)   |
-| **Week 9**  | 11/23 - 11/27 | **Project 3** & Thanksgiving Break    |
-| **Week 10** | 11/30 - 12/4  | Angular                               |
-| **Week 11** | 12/7 - 12/11  | Angular & APIs, React, other topics   |
-| **Week 12** | 12/14 - 12/18 | **Project 4**                         |
+| **Week 1**  | 11/9 - 11/13  | Front-End Fundamentals (HTML/CSS)     |
+| **Week 2**  | 11/16 - 11/20 | JQuery, Intermediate Front-End        |
+| **Week 3**  | 11/23 - 11/27 | **Project 1** (individual)            |
+| **Week 4**  | 11/30 - 12/4  | Intro Node, Express                   |
+| **Week 5**  | 12/7 - 12/11  | More Express, Auth, Testing           |
+| **Week 6**  | 12/14 - 12/18 | **Project 2** (individual)            |
+| **Week 7**  | 12/21 - 12/25 | Intro Ruby                            |
+| **Week 8**  | 12/28 - 1/1   | Ruby on Rails / *Project 3* (group)   |
+| **Week 9**  | 1/4 - 1/8     | **Project 3** & Thanksgiving Break    |
+| **Week 10** | 1/11 - 1/15   | Angular                               |
+| **Week 11** | 1/18 - 1/22   | Angular & APIs, React, other topics   |
+| **Week 12** | 1/25 - 1/29   | **Project 4**                         |
 
 
 
