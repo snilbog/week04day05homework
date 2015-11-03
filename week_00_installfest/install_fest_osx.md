@@ -47,6 +47,9 @@ git config --global push.default simple
 git config --global credential.helper cache
 ```
 
+* **REPLACE `YOUR-USERNAME` WITH YOUR ACTUAL GITHUB USERNAME**
+* **REPLACE `YOUR-EMAIL-ADDRESS` WITH YOUR ACTUAL E-MAIL ADDRESS**
+
 ####Setting up SSH Key
 You might find your self having to re-authenticate GIT every time you work on your command line. Setup SSH Keys to let Github remember your machine in the future.
 
