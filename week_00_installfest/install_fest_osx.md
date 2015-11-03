@@ -56,11 +56,14 @@ You might find your self having to re-authenticate GIT every time you work on yo
 * [Github Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/) - When prompted to choose a passphrase just hit enter.
 
 ##Node
-We'll be using the official Node installer provided from [nodejs.org](http://www.nodejs.org)
 
-Download and run the installer. The installation usually goes smoothly, and you can verify Node is working by restarting terminal, and typing
+We'll be installing node.js using brew.
 
-Verify the installation afterwards by running
+```
+brew install node
+```
+
+Once this finishes run the following commands to verify that node installed successfully.
 
 ```
 node -v
@@ -169,7 +172,9 @@ You may need to press "yes" for various entries
 
 #Verify your installation
 
-Run each of these commands and then call someone over to validate your installation is correct.
+1.) **Quit iTerm** to make sure all of your settings are the latest version and restart it.
+
+2.) Run each of these commands and then call someone over to validate your installation is correct.
 
 ```
 rails -v
