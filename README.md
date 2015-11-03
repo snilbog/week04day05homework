@@ -25,8 +25,7 @@ Here is where we will store the information you need as students. This includes 
 | Course Producer    | Elysse Reyna       | @elysse          | elysse.reyna              | 
 | Instructor         | Sean Robertson     | @sean.robertson  | sean.robertson            | 
 | Instructor         | Patrick O'Connor   | @RobertSheaO     | patrick.oconnor           |
-| DIR                | Wale Ogundipe      | @wale_o          | wale.ogundipe             |
-| DIR                | Merit Trompeter    | @merit           | merit.trompeter           |
+| DIR | Samuel Policar | @samuelpolicar | samuel.policar | 
 
 ### TAs (NEEDS UPDATE)
 
@@ -35,7 +34,7 @@ Here is where we will store the information you need as students. This includes 
 | Time                    | Name             | Slack          | Email                 | 
 |:-----------------------:|:----------------:|:--------------:|:---------------------:|
 | Tues, Weds Thurs 4-7    | Brandon Webster  | @branweb       | brandon.webster       | 
-| Mon, Tues, Weds 4-7     | Samuel Policar   | @samuelpolicar | samuel.policar        | 
+
 | Mon, Tues, Weds 4-7     | Elle Kim         | @elle          | elle.kim              | 
 | Mon, Tues, Weds 5:30-8  | Daniel Smith     | @smithdp60     | daniel.smith          | 
 | Tues, Weds, Thurs 6-8   | Sean Villagracia | @svillagracia  | sean.villagracia      |
@@ -44,21 +43,30 @@ Here is where we will store the information you need as students. This includes 
 
 | Name                 | Email                           | Slack              | GitHub |
 |:--------------------:|:-------------------------------:|:------------------:|:------:|
-|Erik|	Ásland|	erikaasland87@gmail.com|
-|Fernando|	Carbajal|	fjcarb@gmail.com|
-|James|	Chi|	jamesjchi@gmail.com|
-|Jo|	Chong|	jo.c.keller@gmail.com|
-|Seth|	Chute|	sdchute@gmail.com|
-|Dominic|	Faulring|	dominicfaulring@fastmail.com|
-|Edward|	Gervais|	edward.a.gervais89@gmail.com|
-|Andrew|	Ghim|	aghim09@gmail.com|
-|Adam|	Leonard|	adammhleonard@gmail.com|
-|Erin|	Moon|	erinmoony@gmail.com|
-|Adriane|	Purdy|	adrianepurdy@yahoo.com|
-|Julia|	Rush|	julia.rush@me.com|
-|John|	Step|	jstep84@gmail.com|
-|Alex|	Winn|	alex.winn520@gmail.com|
-|Cynthia|	Wong|	cynhowong@gmail.com|
+|Erin |Moon |erinmoony@gmail.com|
+|Dominic |Faulring |dominicfaulring@fastmail.com|
+|Jo |Chong |jo.c.keller@gmail.com|
+|Adam |Leonard |adammhleonard@gmail.com|
+|Seth |Chute |sdchute@gmail.com|
+|Alex |Winn |alex.winn520@gmail.com|
+|adriane |purdy |adrianepurdy@yahoo.com|
+|Cynthia |Wong |cynhowong@gmail.com|
+|john |step |jstep84@gmail.com|
+|Edward |Gervais |edward.a.gervais89@gmail.com|
+|Blake |Allan |blakewallan@gmail.com|
+|Fernando |Carbajal |fjcarb@gmail.com|
+|James |Chi |jamesjchi@gmail.com|
+|Patrick |Trompeter |patrick.trompeter@gmail.com|
+|stuart	|hiller	|hiller.stuart@gmail.com|
+|Alex	|Kruse	|abkruse@gmail.com|
+|Erika	|Moore	|erikapallasmoore@gmail.com|
+|Derek	|Poppe	|derekpoppe@gmail.com|
+|Robin	|Cruz	|rkdcruz18@gmail.com|
+|Neal	|Fitch	|fitch.neal@gmail.com|
+|Rachel	|Williams |rai.chel.ann@gmail.com|
+|Jonathan|	Irwin |jirwin2@gmail.com|
+|Yung	|Ryu |y.ryu421@gmail.com|
+|Taylor| Joosten |taylorjoosten@gmail.com|
 
 
 
@@ -88,14 +96,14 @@ Keep in mind, this is tentative. **We may change topics and dates as necessary.*
 | **Week 4**  | 11/30 - 12/4  | Intro Node, Express                   |
 | **Week 5**  | 12/7 - 12/11  | More Express, Auth, Testing           |
 | **Week 6**  | 12/14 - 12/18 | **Project 2** (individual)            |
-| **Week 7**  | 12/21 - 12/25 | Intro Ruby                            |
-| **Week 8**  | 12/28 - 1/1   | Ruby on Rails / *Project 3* (group)   |
-| **Week 9**  | 1/4 - 1/8     | **Project 3** & Thanksgiving Break    |
-| **Week 10** | 1/11 - 1/15   | Angular                               |
-| **Week 11** | 1/18 - 1/22   | Angular & APIs, React, other topics   |
-| **Week 11** | 1/25 - 1/29   | **Project 4**                         |
-| **Week 11** | 2/1 - 2/5   | **Project 4**                         |
-| **Week 12** | 2/8 - 2/12   | **Project 4**                         |
+| **Week 6.5**  | 12/21 - 12/25 | Intro Ruby (No class 24th/25th) |
+| **HOLIDAY BREAK**  | 12/28 - 1/1   | NO CLASS  |
+| **Week 7**  | 1/4 - 1/8   | Ruby on Rails / *Project 3* (group)   |
+| **Week 8**  | 1/11 - 1/15     | **Project 3** & Thanksgiving Break    |
+| **Week 9** | 1/18 - 1/22   | Angular |
+| **Week 10** | 1/25 - 1/29   | More Angular + Express + Mongo (MEAN Stack) |
+| **Week 11** |2/1 - 2/5   | Computer Science Topics, Interview Prep, and electives |
+| **Week 12** | 2/1 - 2/5   | **Project 4** |
 
 
 
