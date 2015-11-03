@@ -178,5 +178,6 @@ npm -v
 git --version
 psql --version
 subl -v
+ssh -T git@github.com
 
 ```
