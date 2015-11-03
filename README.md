@@ -20,11 +20,11 @@ Here is where we will store the information you need as students. This includes 
 ​
 ### Instructional Team
 
-| Role               | Name               | Slack            | Email (@generalassemb.ly) |
+| Role               | Name               | Slack            | Email |
 |:------------------:|:------------------:|:----------------:|:-------------------------:|
-| Course Producer    | Elysse Reyna       | @elysse          | elysse.reyna              | 
-| Instructor         | Sean Robertson     | @sean.robertson  | sean.robertson            | 
-| Instructor         | Patrick O'Connor   | @RobertSheaO     | patrick.oconnor           |
+| Course Producer    | Elysse Reyna       | @elysse          | elysse.reyna@ga.co              | 
+| Instructor         | Sean Robertson     | @sean.robertson  | sean.robertson@ga.co          | 
+| Instructor         | Patrick O'Connor   | @RobertSheaO     | patrick.oconnor@ga.co         |
 | DIR | Samuel Policar | @samuelpolicar | samuel.policar | 
 
 ### TAs
@@ -33,10 +33,11 @@ Here is where we will store the information you need as students. This includes 
 
 | Time                    | Name             | Slack          | Email                 | 
 |:-----------------------:|:----------------:|:--------------:|:---------------------:|
-| Tues, Weds Thurs 4-7    | Brandon Webster  | @branweb       | brandon.webster       | 
-| Mon, Tues, Weds 4-7     | Elle Kim         | @elle          | elle.kim              | 
-| Mon, Tues, Weds 5:30-8  | Daniel Smith     | @smithdp60     | daniel.smith          | 
-| Tues, Weds, Thurs 6-8   | Sean Villagracia | @svillagracia  | sean.villagracia      |
+| TBD   | Alyssa | -  | - |
+| TBD  | Daniel Smith     | @smithdp60     | daniel.smith@ga.co          | 
+| TBD   | Paul  | - | - | 
+| TBD  | Fernando         | - | -  | 
+
 
 ### Class
 
