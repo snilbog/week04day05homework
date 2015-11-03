@@ -53,7 +53,7 @@ git config --global credential.helper cache
 ####Setting up SSH Key
 You might find your self having to re-authenticate GIT every time you work on your command line. Setup SSH Keys to let Github remember your machine in the future.
 
-* [Github Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
+* [Github Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/) - When prompted to choose a passphrase just hit enter.
 
 ##Node
 We'll be using the official Node installer provided from [nodejs.org](http://www.nodejs.org)
