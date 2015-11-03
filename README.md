@@ -27,14 +27,13 @@ Here is where we will store the information you need as students. This includes 
 | Instructor         | Patrick O'Connor   | @RobertSheaO     | patrick.oconnor           |
 | DIR | Samuel Policar | @samuelpolicar | samuel.policar | 
 
-### TAs (NEEDS UPDATE)
+### TAs
 
 *subject to change
 
 | Time                    | Name             | Slack          | Email                 | 
 |:-----------------------:|:----------------:|:--------------:|:---------------------:|
 | Tues, Weds Thurs 4-7    | Brandon Webster  | @branweb       | brandon.webster       | 
-
 | Mon, Tues, Weds 4-7     | Elle Kim         | @elle          | elle.kim              | 
 | Mon, Tues, Weds 5:30-8  | Daniel Smith     | @smithdp60     | daniel.smith          | 
 | Tues, Weds, Thurs 6-8   | Sean Villagracia | @svillagracia  | sean.villagracia      |
