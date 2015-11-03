@@ -191,3 +191,12 @@ subl -v
 ssh -T git@github.com
 
 ```
+
+4.) All the following should point to a directory within /Users/, **NOT** /usr/
+
+```
+which rails
+which ruby
+which bundle
+which gem
+```
