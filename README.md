@@ -33,10 +33,10 @@ Here is where we will store the information you need as students. This includes 
 
 | Time                    | Name             | Slack          | Email                 | 
 |:-----------------------:|:----------------:|:--------------:|:---------------------:|
-| TBD   | Alyssa | -  | - |
-| TBD  | Daniel Smith     | @smithdp60     | daniel.smith@ga.co          | 
-| TBD   | Paul  | - | - | 
-| TBD  | Fernando         | - | -  | 
+| Tues, Weds, Thurs (4-7pm)   | Alyssa Williams | @alyssa.williams  | - |
+| Tues / Thurs (5:30 - 7:30pm)  | Daniel Smith     | @smithdp60     | daniel.smith@ga.co          | 
+| Mon, Weds, Thurs (4-7pm)  | Paul Davidson  | @pauldavidson | - | 
+| Mon, Tues, Wed (5-8pm)  | Fernando Gomez | @fhergomez | -  | 
 
 
 ### Class
