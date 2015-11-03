@@ -172,9 +172,11 @@ You may need to press "yes" for various entries
 
 #Verify your installation
 
-1.) **Quit iTerm** to make sure all of your settings are the latest version and restart it.
+1.) **Quit iTerm**
 
-2.) Run each of these commands and then call someone over to validate your installation is correct.
+2.) Restart iTerm (this ensures that all changes are applied)
+
+3.) Run each of these commands and then call someone over to validate your installation is correct.
 
 ```
 rails -v
