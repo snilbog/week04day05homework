@@ -2,7 +2,7 @@
 
 #Ubuntu install instructions
 
-**TIP:** On ubuntu you can paste into terminal by using `CTRL+SHIFT+V`
+**TIP:** Use `CTRL+SHIFT+V` to paste into terminal
 
 ##Slack
 
@@ -52,12 +52,12 @@ sudo -u postgres psql postgres
 
 ```
 
-Choose an easy to remember password then type `\quit` to exit psql
+Choose an easy to remember password then type `\quit` to exit psql. MAKE SURE YOU REMEMBER THIS PASSWORD YOU WILL NEED IT LATER
 
 
 ####create postgres alias
 
-Edit your zshrc file by typing `subl ~/.zshrc` add these lines to the bottom of the file:
+To make it easier to start postgres we're going to create a couple aliases. Edit your zshrc file by typing `subl ~/.zshrc` add these lines to the bottom of the file:
 
 ```
 alias psql="sudo -u postgres psql"
@@ -76,6 +76,8 @@ sudo apt-get install pgadmin3
 ```
 
 ##Testing setup
+
+Quit terminal and reopen it before testing.
 
 ###Node
 
@@ -137,18 +139,29 @@ exec $SHELL
 git clone https://github.com/sstephenson/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
 
 rbenv install 2.2.2
+```
+
+(last step above will take a LONG time)
+
+**Set ruby version and check that it worked**
+
+```
 rbenv global 2.2.2
 ruby -v
 ```
 
 ####Install Rails
 
+Before moving on close and reopen terminal.
+
 ```
-sudo gem update
+gem update
 echo "gem: --no-ri --no-rdoc" > ~/.gemrc
 gem install bundler
-sudo gem install rails
+gem install rails
 ```
+
+(the last step will take a while)
 
 
 #Verify your installation
