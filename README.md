@@ -1,6 +1,8 @@
-#WDI-SEA Homework submission
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-Homework will be turned in to your fork of this repository daily.
+#WDI SEA 05 Homework submission repository
+
+All homework will be turned in to your fork of this repository daily.
 
 ##Setup
 
@@ -54,3 +56,22 @@ Message about your experience goes here
 Replace the `#` next to comfort/completness with a number (1 - 5) to represent how comfortable you are with the topic and how much of the assignment you were able to complete.
 
 1 being the lowest and 5 being the highest (most comfortable / complete)
+
+##Folder Structure
+
+By the end of this course you will have a lot of assignments in this repository and it will get pretty unwieldy if you don't start it out with some strcture. This is how we recommend you organize your homework repository.
+
+```
+- WDI_SEA_05_HOMEWORK
+  - Week_01
+    - Day_01
+      -hw_title_of_homework
+      -lab_title_of_inclass_lab
+      -...
+    - Day_02
+    - ...
+    - Day_05    
+  - Week_02
+  - ...
+  - Week_12
+```
