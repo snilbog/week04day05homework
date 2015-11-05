@@ -1,6 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-#WDI SEA 05 Homework submission repository
+#WDI SEA 05 Homework repository
 
 All homework will be turned in to your fork of this repository daily.
 
