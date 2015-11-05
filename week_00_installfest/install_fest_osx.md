@@ -4,7 +4,7 @@
 
 For the first portion of the class, we'll be working exclusively inside of the browser and Node. We'll be installing the following tools.
 
-
+* Slack
 * Homebrew
 * Git
 * Node
@@ -14,8 +14,14 @@ For the first portion of the class, we'll be working exclusively inside of the b
 * Ruby
 * Rails
 
+##Slack
+
+We will be using slack to communicate throughout the course. You should've received an invite to our channels via e-mail. You can login via the web browser, but downloading / installing the app is highly recommended.
+
+[Download Slack](https://slack.com/downloads)
 
 ##Homebrew
+
 Homebrew is a package manager that we will use to install various command line tools in our class.
 
 Open up terminal, and paste the following command to install Homebrew. You might be prompted to install XCode Command Line Tools during the install process.
@@ -29,6 +35,7 @@ After the installation process, run the command `brew doctor`. If any warnings o
 
 
 ##GIT
+
 Before we do this process, please make sure you have signed up for an account on [Github](http://www.github.com). We will be installing a version of GIT from home brew and also configuring it.
 
 To install GIT
@@ -81,6 +88,7 @@ sudo chown -R $USER /usr/local/lib
 
 
 ##Sublime 3
+
 We'll be running **Sublime 3**, not Sublime 2 as our text editor of choice.
 
 Download and install version 3 from [http://www.sublimetext.com/3](http://www.sublimetext.com/3)
@@ -94,6 +102,7 @@ Restart terminal, and you should be able to open a folder to edit by typing `sub
 
 
 ##ZSH
+
 Oh my ZSH?!!! We will be tricking out commandline with another shell. A shell is an interface into our computer, and we will be using a lot to run commands.
 
 We'll be using a shell and configuration package called [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -107,6 +116,7 @@ curl -L http://install.ohmyz.sh | sh
 Restart Terminal, and you should see a brand new and colorful command prompt.
 
 ##iTerm
+
 For those running, mac, download iterm2, a better featured terminal.
 [iterm2](http://iterm2.com/downloads.html)
 
@@ -114,6 +124,7 @@ Drag and drop into your Applications folder.
 
 
 ##Postgres.app
+
 We will be using a relational database called Postgres for Node and Rails portion our class. Download
 
 Download and install from [http://postgresapp.com/](http://postgresapp.com/)
