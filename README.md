@@ -10,7 +10,7 @@ Here is where we will store the information you need as students. This includes 
 * [**Contact Information**](#contact-information)
 * [**Important Dates**](#important-dates)
 * [**Course Outline**](#course-outline)
-* [**Repo Structure and Use**](#repo-structure-and-use)
+* [**Repo Structure and Use**](#folder-structure)
 ​
 
 ---
