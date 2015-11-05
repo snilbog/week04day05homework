@@ -2,6 +2,14 @@
 
 #Ubuntu install instructions
 
+**TIP:** On ubuntu you can paste into terminal by using `CTRL+SHIFT+V`
+
+##Slack
+
+We will be using slack to communicate throughout the course. You should've received an invite to our channels via e-mail. You can login via the web browser, but downloading / installing the app is highly recommended.
+
+[Download Slack](https://slack.com/downloads)
+
 ##Install Oh My ZSH
 
 ```
@@ -11,8 +19,7 @@ chsh -s /bin/zsh
 wget --no-check-certificate http://install.ohmyz.sh -O - | sh
 sudo shutdown -r 0
 ```
-
-Close terminal and re-open
+(the last command will restart your computer)
 
 
 ##Install Sublime
@@ -25,11 +32,9 @@ Download the `.deb` file and run it to install. Follow on screen prompts
 ##Install Node
 
 ```
-curl -sL https://deb.nodesource.com/setup | sudo bash -
+curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
 
-sudo apt-get install build-essential
-sudo apt-get install nodejs
-sudo apt-get install nodejs-legacy npm
+sudo apt-get install -y build-essential nodejs
 ```
 
 ##Install postgres
@@ -105,7 +110,7 @@ Should enter psql terminal and have no error.
 ```
 
 
-#Installing Ruby
+#Installing Ruby on Rails
 
 ####Install dependencies
 
@@ -114,12 +119,12 @@ sudo apt-get update
 sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
 ```
 
-###Install rbenv
-rbenv lets us change ruby verions on the fly, useful for working with diffrent versions.
+###Install rbenv / ruby
 
+rbenv lets us change ruby verions on the fly, useful for working with diffrent rails apps.
 
 ```
-cd
+cd ~
 git clone git://github.com/sstephenson/rbenv.git .rbenv
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(rbenv init -)"' >> ~/.zshrc
@@ -136,7 +141,7 @@ rbenv global 2.2.2
 ruby -v
 ```
 
-Disable rdocs and and install bundler
+####Install Rails
 
 ```
 sudo gem update
@@ -153,6 +158,11 @@ Run each of these commands and then call someone over to validate your installat
 ```
 rails -v
 ruby -v
+
+which ruby
+which rails
+which bundle
+which gem
 
 node -v
 npm -v
