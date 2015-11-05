@@ -4,7 +4,9 @@ Homework will be turned in to your fork of this repository daily.
 
 ##Setup
 
-To set up your initial homework repository do the following (**DO NOT DO THIS UNTIL INSTRUCTED TO DO SO**):
+**IMPORTANT!!! DO NOT DO THIS UNTIL INSTRUCTED TO DO SO.** We will do this process together on the first day of class.
+
+To set up your initial homework repository do the following:
 
 * fork repo
 * clone forked repo
