@@ -43,30 +43,30 @@ Here is where we will store the information you need as students. This includes 
 
 | Name                 | Email                           | Slack              | GitHub |
 |:--------------------:|:-------------------------------:|:------------------:|:------:|
-|Erin |Moon |erinmoony@gmail.com|
-|Dominic |Faulring |dominicfaulring@fastmail.com|
-|Jo |Chong |jo.c.keller@gmail.com|
-|Adam |Leonard |adammhleonard@gmail.com|
-|Seth |Chute |sdchute@gmail.com|
-|Alex |Winn |alex.winn520@gmail.com|
-|Adriane |Purdy |adrianepurdy@yahoo.com|
-|Cynthia |Wong |cynhowong@gmail.com|
-|John |Step |jstep84@gmail.com|
-|Edward |Gervais |edward.a.gervais89@gmail.com|
-|Blake |Allan |blakewallan@gmail.com|
-|Fernando |Carbajal |fjcarb@gmail.com|
-|James |Chi |jamesjchi@gmail.com|
-|Patrick |Trompeter |patrick.trompeter@gmail.com|
-|Stuart	|Hiller	|hiller.stuart@gmail.com|
-|Alex	|Kruse	|abkruse@gmail.com|
-|Erika	|Moore	|erikapallasmoore@gmail.com|
-|Derek	|Poppe	|derekpoppe@gmail.com|
-|Robin	|Cruz	|rkdcruz18@gmail.com|
-|Neal	|Fitch	|fitch.neal@gmail.com|
-|Rachel	|Williams |rai.chel.ann@gmail.com|
-|Jonathan|	Irwin |jirwin2@gmail.com|
-|Yung	|Ryu |y.ryu421@gmail.com|
-|Taylor| Joosten |taylorjoosten@gmail.com|
+|Erin |Moon |erinmoony@gmail.com| - |
+|Dominic |Faulring |dominicfaulring@fastmail.com| |
+|Jo |Chong |jo.c.keller@gmail.com| |
+|Adam |Leonard |adammhleonard@gmail.com| |
+|Seth |Chute |sdchute@gmail.com| |
+|Alex |Winn |alex.winn520@gmail.com| |
+|Adriane |Purdy |adrianepurdy@yahoo.com| |
+|Cynthia |Wong |cynhowong@gmail.com| |
+|John |Step |jstep84@gmail.com| |
+|Edward |Gervais |edward.a.gervais89@gmail.com| |
+|Blake |Allan |blakewallan@gmail.com| |
+|Fernando |Carbajal |fjcarb@gmail.com| |
+|James |Chi |jamesjchi@gmail.com| |
+|Patrick |Trompeter |patrick.trompeter@gmail.com| |
+|Stuart	|Hiller	|hiller.stuart@gmail.com| |
+|Alex	|Kruse	|abkruse@gmail.com| |
+|Erika	|Moore	|erikapallasmoore@gmail.com| |
+|Derek	|Poppe	|derekpoppe@gmail.com| |
+|Robin	|Cruz	|rkdcruz18@gmail.com| |
+|Neal	|Fitch	|fitch.neal@gmail.com| |
+|Rachel	|Williams |rai.chel.ann@gmail.com| |
+|Jonathan|	Irwin |jirwin2@gmail.com| |
+|Yung	|Ryu |y.ryu421@gmail.com| |
+|Taylor| Joosten |taylorjoosten@gmail.com| |
 
 
 
