@@ -162,6 +162,7 @@ source ~/.zlogin
 ```
 
 ###Configuring rbenv
+
 ```
 brew update
 
@@ -169,14 +170,19 @@ brew install rbenv-gem-rehash
 brew install ruby-build
 
 rbenv install 2.2.2
+```
+(the last line above will take a long time. that is normal)
+
+
+```
 rbenv global 2.2.2
 ```
 
 ###Install Rails
 
 ```
-sudo gem update
-sudo gem install rails --no-rdoc --no-ri
+gem update
+gem install rails --no-rdoc --no-ri
 ```
 You may need to press "yes" for various entries
 
