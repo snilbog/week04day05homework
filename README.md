@@ -22,9 +22,9 @@ Here is where we will store the information you need as students. This includes 
 
 | Role               | Name               | Slack            | Email |
 |:------------------:|:------------------:|:----------------:|:-------------------------:|
-| Course Producer    | Elysse Reyna       | @elysse          | elysse.reyna@ga.co              | 
-| Instructor         | Sean Robertson     | @sean.robertson  | sean.robertson@ga.co          | 
+| Course Producer    | Elysse Reyna       | @elysse          | elysse.reyna@ga.co              |
 | Instructor         | Patrick O'Connor   | @RobertSheaO     | patrick.oconnor@ga.co         |
+| Instructor         | Sean Robertson     | @sean.robertson  | sean.robertson@ga.co          |
 | DIR | Samuel Policar | @samuelpolicar | samuel.policar | 
 
 ### TAs
