@@ -1,0 +1,57 @@
+div {
+	border: 5px solid black;
+	padding: 2px;
+	}
+
+#container {
+	height: 500px;
+	width: 500px;
+	background-color: gray;
+	position: relative;
+	}
+
+#square1 {
+	background-color: red;
+	height: 200px;
+	width: 100px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	}
+
+#square2 {
+	background-color: blue;
+	height: 200px;
+	width: 100px;
+	clear: right;
+	}
+
+#square3 {
+	background-color: green;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	}
+
+#square4 {
+	background-color: black;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	}
+
+	.inline {
+	display: inline;
+
+	}
+	.block {
+	display: block;
+	}
+
+	.inline-block {
+	display: inline-block;
+	}
