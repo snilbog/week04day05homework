@@ -8,3 +8,30 @@ body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
+
+.blueBanner {
+	margin: 0 auto;
+	height: 400px;
+	background-color: #1c5380;
+}
+
+#mainLogo {
+	position: absolute;
+    height: 500px;
+    width: 500px;
+    float: right;
+}
+#phone {
+    height: 400px;
+    width: 250px;
+}
+#content {
+	height: 300px;
+	width: 400px;
+	float: right;
+}
+
+#footer {
+	height: 100px;
+	width: 400px;
+	bottom: 0;
