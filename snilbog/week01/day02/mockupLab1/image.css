@@ -1,7 +1,8 @@
 div {
-  border: 1px solid black;
   padding: 1px;
   }
+
+h1 {text-align: 100px;}
 
 #container {
   background-color: white;
@@ -11,43 +12,63 @@ div {
   background-color: white;
   height: 200px;
   width: 200px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
   }
 
 #square2 {
   background-color: blue;
   height: 200px;
   width: 200px;
+  position: absolute;
+  top: 100px;
+  left: 400px;
   }
 
 #square3 {
   background-color: purple;
   height: 200px;
   width: 200px;
+  position: absolute;
+  top: 100px;
+  left: 700px;
   }
 
 #square4 {
   background-color: white;
   height: 400px;
   width: 400px;
-  position: right;
+  position: absolute;
+  top: 100px;
+  left: 1000px;
   }
 
   #square5 {
   background-color: brown;
   height: 200px;
   width: 200px;
+  position: absolute;
+  top: 400px;
+  left: 100px;
   }
 
 #square6 {
   background-color: green;
   height: 200px;
   width: 200px;
+  position: absolute;
+  top: 400px;
+  left: 400px;
   }
 
 #square7 {
   background-color: orange;
   height: 200px;
   width: 200px;
+  position: absolute;
+  top: 400px;
+  left: 700px;
   }
 
   .inline-block {
