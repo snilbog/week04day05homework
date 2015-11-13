@@ -1,0 +1,30 @@
+.top{
+  padding-top: 100px;
+  border-bottom: 50px black;
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.celcius{
+  text-align: center;
+  padding-top: 85px;
+  font-size: 100px;
+}
+
+.dataEntry{
+  text-align: center;
+  padding-top: 85px;
+}
+
+input{
+  text-align: center;
+  background-color: 345;
+}
+
+button{
+  background: 543;
+}
