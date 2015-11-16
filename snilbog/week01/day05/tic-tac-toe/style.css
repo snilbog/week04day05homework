@@ -11,10 +11,6 @@ td {
   box-sizing:border-box;
 }
 
-td:hover{
-  cursor:pointer;
-}
-
 td:first-child{
   border-left: none;
 }
@@ -41,9 +37,6 @@ tfoot tr td{
   text-align: center;
 }
 
-.X, .O {
-  border-radius: 10px;
-}
 .X {
   background: white;
 }
@@ -59,11 +52,5 @@ tfoot tr td{
   padding: 10px;
   width: 200px;
   font-size: 1em;
-  border-radius: 0px;
-  cursor: pointer;
 }
 
-#reset:hover{
-  background: #b8bdee;
-  border-color: white;
-}
