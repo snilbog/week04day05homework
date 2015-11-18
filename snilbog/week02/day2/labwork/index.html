@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>jQuery Demo</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  </head>
+  <body>
+  
+  <div id='clickMe'>Click Me!</div>
+
+  <form>
+  	<input type='hidden' name'numberOfClicks' value='0'>
+  	<button type='submit'>Submit</button>
+  	</form>
+
+<script type="text/javascript" src="script.js">
+	$('document').ready(function(){
+		GA = GA || {}
+		GA = {
+			numberOfClicks : 0,
+			init : function(){
+				this.bindClick();
+				this.bindSubmit();
+			},
+			bindClick : function(){
+				var that + this;
+				$('#clickMe').on('click', function(){
+					that.incrementClickCount();
+				});
+
+				"This should alert the value of incrementClickCount"
+			},
+
+			bindSubmit : function(){
+				var that = this;
+				$('form button[type="submit"]').on('click',function(event){
+					event.preventDefault();
+					that.alertClickNum();
+				});
+			}
+
+			alertClickNum : function(){
+				"This should alert the value of numberOfClicks"
+			}
+			incrementClickCount : function(){
+				"Call this from bindClick()"
+				"This should add to numberOfClicks, and update the hidden field"
+			}
+		}
+		GA.init();
+});
+</script>
+
+<div id="container">
+<h2>Dynamically Created Form Using jQuery</h2>
+<div id="form1">
+<!-- Dynamic Form Div -->
+</div>
+</div>
+  </body>
+</html>

@@ -6,15 +6,13 @@ var reddit = require("./data.json")
 
 var reddit = require("./data.json")
 
-var myFunc = function(thing) {
- 	thing.name = items;
-	console.log(titles);
-}
+var items = reddit.data.children;
+console.log('All titles');
+console.log(".........");
 
-reddit.data.children.titles.forEach(myFunc)
-
-
-
+items.forEach(function (item) {
+	console.log(item.data.children);
+});
 //************************************************
 
 
@@ -23,26 +21,28 @@ reddit.data.children.titles.forEach(myFunc)
 
 var reddit = require("./data.json")
 
-
-var newArray = reddit.data.children.map(function(links) {
-	return links.href("http://reddit.com");
-});
+console.log(" ");
+console.log("....");
+var linked = items.map(function(item) {
+	return "http://reddit.com" + item.data.permalink;
+	return "http://reddit.com" + item['data']['permalink'];
+ });
 
 
 
 //***************** filter ********************
 //3. `filter` - Filter the posts that contain actual text in the  `selftext` key
 
+console.log(linked.join(","));
 
-var reddit = require("./data.json")
+console.log("\nFiltered items with selftext");
+console.log( "............");
 
-var newArray = reddit.data.children.selftext.filter(function(person) {
-	if () {
-	return text;
-	}
+var filtered = items.filter(function(item) {
+	return item.data.selftext.length;
 });
 
-console.log(newArray);
+console.log(filtered.length+" < "+items.length);
 
 
 
@@ -51,16 +51,24 @@ console.log(newArray);
 //4. `reduce` - Use reduce to count all the `score` values across posts
 
 
-var reddit = require("./data.json")
+console.log("\nTotal score across posts");
+console.log("...........");
 
+var totalScore = items.reduce(function(total, nextItem) {
+	return total + nextItem.data.score;
+}, "");
 
-var score = function(value) {
-	return ;
-}
-
-var sum = reddit.reduce(add);
-
-
+console.log("total score: "+ totalScore);
 
 
 console.log(reddit["data"]);
+
+
+
+
+
+
+
+
+
+
