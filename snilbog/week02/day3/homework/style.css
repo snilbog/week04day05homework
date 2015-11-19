@@ -1,0 +1,60 @@
+h1{
+	font-family: futura, sans-serif;
+	font-size: 60px;
+	color: gray;
+	font-weight: 100;
+	text-align: center;
+}
+header{
+	width: 100%
+}
+p{
+	font-family: futura, sans-serif;
+	font-size: 16px;
+	color: gray;
+	font-weight: 100;
+	text-align: center;
+	margin-top: -50px;
+}
+body{
+	width: 100%;
+	display: block;
+}
+#center{
+	width: 50%;
+	margin: 0 auto;
+}
+#searchForm{
+	margin: 0 auto;
+	width: 20%;
+}
+input{
+	margin: 0 auto;
+}
+#start{
+	width: 100px;
+	margin-left: 40%;
+	margin-right: 40%;
+	color: green;
+}
+#stop{
+	width: 100px;
+	margin-left: 40%;
+	margin-right: 40%;
+	color: darkred;
+}
+button{
+	margin: 0 auto;
+}
+li {
+	display: inline;
+    list-style-type: none;
+    left:530px;
+    right:530px;
+    position: absolute;
+}
+img {
+	margin:0 auto;
+	height : 200px;
+	width : 200px;
+}
