@@ -40,18 +40,18 @@ $(document).ready(function(){
 $('#startButton').fadeOut(10);
 
 $('#search').on('click', function(){
-  $('#startButton').fadeIn(1000);
-  $('#searchForm').fadeOut(1000);
+  $('#startButton').fadeIn(500);
+  $('#searchForm').fadeOut(500);
   $('ul').show();
 });
 
 $('#start').on('click', function(){
-  $('#stop').fadeIn(1000);
+  $('#stop').fadeIn(500);
   $('#startButton').fadeOut(500);
 });
 
 $('#stop').on('click', function(){
-  $('#searchForm').fadeIn(1000);
+  $('#searchForm').fadeIn(500);
   $('#stop').fadeOut(500);
   $('ul').hide();
 });
@@ -60,10 +60,10 @@ $('#start').on('click', function(e){
     e.preventDefault();
     $('li').hide();
       setInterval(function(){
-        $('ul li:first-child').fadeOut(1000)
-        .next('li').fadeIn(1000)
+        $('ul li:first-child').fadeOut(500)
+        .next('li').fadeIn(500)
           .end().appendTo('ul');},
-            3000);
+            500);
     });
   bindSearch();
   focusOn();

@@ -1,21 +1,14 @@
 h1{
 	font-family: futura, sans-serif;
-	font-size: 60px;
-	color: gray;
-	font-weight: 100;
+	font-size: 50px;
+	color: black;
+	font-weight: 150;
 	text-align: center;
 }
 header{
 	width: 100%
 }
-p{
-	font-family: futura, sans-serif;
-	font-size: 16px;
-	color: gray;
-	font-weight: 100;
-	text-align: center;
-	margin-top: -50px;
-}
+
 body{
 	width: 100%;
 	display: block;
@@ -32,16 +25,16 @@ input{
 	margin: 0 auto;
 }
 #start{
-	width: 100px;
+	width: 200px;
 	margin-left: 40%;
 	margin-right: 40%;
 	color: green;
 }
 #stop{
-	width: 100px;
+	width: 200px;
 	margin-left: 40%;
 	margin-right: 40%;
-	color: darkred;
+	color: red;
 }
 button{
 	margin: 0 auto;

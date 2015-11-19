@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>AJAX</title>
-</head>
-<body>
-
-<!DOCTYPE html>
-<html>
   <head>   
-    <title>Pictures of Reddit</title>
+    <title>Reddit</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -18,13 +11,15 @@
 <body>
   <header>
     <h1>Reddit Sh0w</h1>
+    <p></p>
   </header>
 <div id="center">  
   <form id="searchForm">
-      <input type="text" id="searchTerm" name="searchTerm" placeholder="Search">
+      <input type="text" id="searchTerm" name="searchTerm" placeholder="Search 'cats'">
+      <button id="search" type="submit">Search</button>
   </form>
     <div id="startButton">
-      <button id="start" type="submit">Start the Show!</button>
+      <button id="start" type="submit">Start</button>
     </div>
       <button id="stop" type="submit">Stop!</button>
     <ul id="list">
