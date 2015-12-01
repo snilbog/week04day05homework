@@ -1,0 +1,26 @@
+/* house creator
+
+function House(sqFeet, bathrooms, bedrooms){
+	this.sqFeet = sqFeet;
+	this.bathrooms = bathrooms;
+	this.bedrooms = bedrooms;
+}
+
+var house1 = new House(3000, 3, 2);
+var house2 = new House(3000, 3.5, 2);
+var house3 = new House(3000, 2, 1);
+var house4 = new House(13000, 2, 7);
+
+*/
+
+/* name creator
+
+var Person = function(firstName, lastName){
+	this.firstName = firstName;
+	this.lastName = lastName;
+	}
+
+Person.prototype.fullName = fuction(){
+	return.this.firstName + ' ' + this.lastName;
+};
+*/
