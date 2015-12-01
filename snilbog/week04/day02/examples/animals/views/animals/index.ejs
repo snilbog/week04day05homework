@@ -1,0 +1,17 @@
+<% include ../partials/header.ejs %>
+
+<div class="container">
+  <h1>Animals Galore!</h1>
+
+  <a href="/" class="btn btn-info">Back Home</a>
+
+  <a href="/animals/new" class="btn btn-success pull-right">+ Add New</a>
+
+  <% myAnimals.forEach(function(item, idx) { %>
+  <div class="well">
+    <h2><a href="/animals/<%= idx %>"><%= item.name %></a> <small><%= item.type %></small></h2>
+  </div>
+  <% }); %>
+
+</div>
+<% include ../partials/footer.ejs %>
