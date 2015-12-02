@@ -1,20 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Hello world</title>
-</head>
-<body>
-  <h1>Hello, <%= name %>!</h1>
+<% include partials/header.ejs %>
 
-  <% include archer.ejs %>
 
-  <% var obsessions = ['spying', 'sarcasm', 'Kenny Loggins']; %>
+  <h1>Hello, <%= name %></h1>
+
+
+<!--  <% include archer.ejs %>-->
+
+  <% var obsessions = ['spying', 'sarcasm', 'Kenny Loggins', 'lying']; %>
 
   <ul>
     <% obsessions.forEach(function(item) { %>
-      <li><%= item %></li>
-    <% }); %>
+   	<li><%= item %></li>
+    	<% }); %>
   </ul>
 
-</body>
-</html>
+<% include partials/footer.ejs %>

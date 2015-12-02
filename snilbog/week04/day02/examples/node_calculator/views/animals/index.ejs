@@ -1,0 +1,16 @@
+<% include ../partials/header.ejs %>
+
+
+<form method="post" action="/animals">
+	<input type="text" name="type">
+	<input type="text" name="name">
+	<input type="submit">
+</form>
+
+<ul>
+	<% myAnimals.forEach(function(animal) {  %>
+		<li> <%= animal.name %> is a <%= animal.type %></li>
+		<% }); %>
+</ul>
+
+<% include ../partials/footer.ejs %>

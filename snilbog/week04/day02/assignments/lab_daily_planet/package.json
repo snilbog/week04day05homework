@@ -1,6 +1,7 @@
 {
-  "name": "node_calculator",
+  "name": "lab_daily_planet",
   "version": "1.0.0",
+  "description": "daily-planet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +12,5 @@
     "body-parser": "^1.14.1",
     "ejs": "^2.3.4",
     "express": "^4.13.3"
-  },
-  "description": ""
+  }
 }

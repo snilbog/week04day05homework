@@ -1,10 +1,61 @@
+var animals = [
+  {name: 'Bill', type: 'cat'},
+  {name: 'Fido', type: 'dog'},
+  {name: 'Cujo', type: 'dog'},
+  {name: 'Baloo', type: 'bear'},
+  {name: 'Mufasa', type: 'lion'}
+  ]
+
+
 var express = require('express');
+var bodyParser = require('body-parser');
 var app = express();
 
 app.use(express.static(__dirname + '/views'));
 app.set('view engine', 'ejs');
 
+app.use(bodyParser.urlencoded({extended: false}));
+
+
 app.get('/', function(req, res) {
+  res.render('index', {name:'Billy Bob Thornton'});
+});
+
+app.get('/about', function(req, res) {
+  res.render('about');
+});
+//adding an array
+app.get('/animals', function(req, res) {
+  res.render('animals/index', {myAnimals: animals});
+});
+
+app.post('/animals', function(req, res) {
+  console.log(req.body);
+});
+
+//single animal
+app.get('/animals/:idx', function(req, res) {
+
+    var animalIndex = parseInt(req.params.idx);
+
+      res.render('animals/show', {myAnimal: animals[animalIndex]})
+});
+
+
+/* in class work
+app.get('/greet/:name/:lastname', function(req, res) {
+  res.send('Hello ' + req.params.name + ' ' + req.params.lastname);
+
+});
+
+app.get('/add/:x/:y', function(req, res) {
+  res.send('The answer is: ' + (parseInt(req.params.x) + parseInt(req.params.y)));
+});
+*/
+
+app.listen(3000);
+
+/*
   res.render('index', {name: 'Sterling Archer'});
 });
 
@@ -32,3 +83,6 @@ var port = 3000;
 app.listen(port, function() {
   console.log("You're listening to the smooth sounds of port " + port);
 });
+
+*/
+
