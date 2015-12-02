@@ -19,46 +19,40 @@ app.use(bodyParser.urlencoded({extended: false}));
 app.use(express.static('public'));
 
 app.get('/',function(req,res){
-  res.render('views/index.ejs');
+  res.render('index.ejs');
 });
 
 app.get('/articles', function(req, res) {
-  res.render('views/articles/index.ejs', {myArticles: articles});
+	var searchTerm= req.query.q;
+
+  res.render('articles/index.ejs', {myArticles: articles, searchTerm: searchTerm});
+
 });
 
 app.get('/articles/new', function(req, res) {
-  res.render('views/articles/new.ejs');
+  res.render('articles/new.ejs');
 });
 
-app.post('/articles', function(request, response) {
+
+app.get('/articles/:idx', function(req, res) {
+	var articleIndex = parseInt(req.rarams.idx);
+	if (idx < articles.length && idx >= 0) {
+  res.render('articles/show.ejs', {article: articles[req.params.idx]});
+} else {
+	res.send('Error');
+}
+});
+
+app.post('/articles', function(req, res) {
 	articles.push(request.body);
-	response.redirect('/articles');
+	res.redirect('/articles');
 });
-
-app.get('/articles/:id', function(req, res) {
-	var articleIndex = parseInt(req.rarams.id);
-  res.render('views/articles/show.ejs', {myArticle: articles[articleIndex]});
-});
-
-
 
 
 app.get('/about', function(req, res) {
-  res.render('about');
+  res.render('about.ejs');
 });
-
-app.get('/animals', function(req, res) {
-  res.render('animals/index', {myAnimals: animals});
-});
-
-app.get('/animals', function(req, res) {
-  res.render('animals/index', {myAnimals: animals});
-});
-
-
-
-
-
-
 
 app.listen(3000);
+
+
