@@ -1,0 +1,28 @@
+                 List of relations
+ Schema |         Name          | Type  |  Owner   
+--------+-----------------------+-------+----------
+ public | alternate_stock       | table | postgres
+ public | authors               | table | postgres
+ public | book_backup           | table | postgres
+ public | book_queue            | table | postgres
+ public | books                 | table | postgres
+ public | customers             | table | postgres
+ public | daily_inventory       | table | postgres
+ public | distinguished_authors | table | postgres
+ public | editions              | table | postgres
+ public | employees             | table | postgres
+ public | favorite_authors      | table | postgres
+ public | favorite_books        | table | postgres
+ public | money_example         | table | postgres
+ public | my_list               | table | postgres
+ public | numeric_values        | table | postgres
+ public | publishers            | table | postgres
+ public | schedules             | table | postgres
+ public | shipments             | table | postgres
+ public | states                | table | postgres
+ public | stock                 | table | postgres
+ public | stock_backup          | table | postgres
+ public | subjects              | table | postgres
+ public | text_sorting          | table | postgres
+(23 rows)
+
