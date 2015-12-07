@@ -1,0 +1,15 @@
+<% include ../partials/header.ejs %>
+
+<a href="/articles/new" class="btn btn-success pull-right">Add a New Article</a>
+
+<h1>Articles</h1>
+
+<% articles.forEach(function(article, idx) { %>
+  <% if (searchTerm && (article.title.toLowerCase().indexOf(searchTerm) > -1 || article.body.toLowerCase().indexOf(searchTerm) > -1) || !searchTerm) { %>
+  <div class="well">
+    <a href="/articles/<%= idx %>"><h2><%= article.title %></h2></a>
+  </div>
+  <% } %>
+<% }); %>
+
+<% include ../partials/footer.ejs %>
